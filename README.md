@@ -1,4 +1,4 @@
-<h3 align="center">Hira Ijaz, Software Engineer @ Arbisoft</h3>
+<h3>Hira Ijaz, Software Engineer @ Arbisoft</h3>
 
 - 🔭 I’m currently working on [Litmustest](https://ggithub.com/arbisoft/Litmustest)
 
