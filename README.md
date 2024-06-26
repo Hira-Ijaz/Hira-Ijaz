@@ -1,8 +1,5 @@
 <h3>Hira Ijaz, Software Engineer @ Arbisoft</h3>
 
-- 🔭 I’m currently working on [Litmustest](https://ggithub.com/arbisoft/Litmustest)
-
-
 - 📫 How to reach me **hiraijaz956@gmail.com**
 - 🙋🏻‍♀️ Related account [@HiraIjaz](https://github.com/HiraIjaz)
   
