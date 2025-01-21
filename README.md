@@ -1,6 +1,6 @@
 <h3>Hira Ijaz, Software Engineer @ Arbisoft</h3>
 
-- 📫 How to reach me **hiraijaz956@gmail.com**
+- 📫 How to reach me **hira.ijaz@arbisoft.com**
 - 🙋🏻‍♀️ Related account [@HiraIjaz](https://github.com/HiraIjaz)
   
 <h3 align="left">Connect with me:</h3>
